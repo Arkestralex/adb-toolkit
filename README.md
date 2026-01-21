@@ -15,14 +15,14 @@ adb-toolkit/
 │   ├── samsung-packages.md
 │   └── troubleshooting.md
 |
+├── presets/ # Device-specific package lists
+│   ├── samsung-a30s.txt
+│   └── universal-safe.txt
+|
 ├── scripts/ # ADB automation scripts
 │   ├── debloat-samsung.sh
 │   ├── backup-apps.sh
 │   └── optimize-animations.sh
-|
-├── presets/ # Device-specific package lists
-│   ├── samsung-a30s.txt
-│   └── universal-safe.txt
 |
 └── README.md
 
