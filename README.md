@@ -7,12 +7,14 @@ A practical ADB toolkit for debloating, optimization, diagnostics, and Android d
 adb-toolkit/
 ├── scripts/
 │   ├── debloat-samsung.sh
-│   ├── disable-services.sh
-│   ├── universal-debloat.sh
-│   ├── restore-apps.sh
-│   └── battery-optimizer.sh
-│
+│   ├── backup-apps.sh
+│   └── optimize-animations.sh
 ├── docs/
-│   └── installation.md
-│
+│   ├── installation.md
+│   ├── samsung-packages.md
+│   └── troubleshooting.md
+├── presets/
+│   ├── samsung-a30s.txt
+│   └── universal-safe.txt
 └── README.md
+
