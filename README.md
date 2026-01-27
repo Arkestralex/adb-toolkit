@@ -11,12 +11,12 @@ A practical ADB toolkit for debloating, optimization, diagnostics, and Android d
 adb-toolkit/
 |
 ├── docs/    # Technical documentation
-|   ├── en
+|   ├── en/  # English
 |   |  ├── installation.md
 │   |  ├── samsung-packages.md
 │   |  └── troubleshooting.md
 |   |
-|   └── es
+|   └── es/  # Español
 │      ├── installation.md
 │      ├── samsung-packages.md
 │      └── troubleshooting.md
