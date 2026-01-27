@@ -18,10 +18,10 @@
 
 ## Instalación en GNU/Linux (Ubuntu/Debian y derivados)
   En Terminal:
-  · sudo apt update
-  · sudo apt install android-tools-adb android-tools-fastboot
+  - sudo apt update
+  - sudo apt install android-tools-adb android-tools-fastboot
   verifica la isntalación:
-  · adb version
+  - adb version
 
 ## Instalación en Windows
   1. Descarga Platform Tools desde la página oficial de desarrolladores de Android
