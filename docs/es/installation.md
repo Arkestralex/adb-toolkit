@@ -34,8 +34,8 @@
 ## Primer Uso
   - Conecta el dispositivo por USB y ejecuta:
     - adb devices
-  En el teléfono aparecerá un mensaje solicitando autorización. Acepta la clave RSA.
-  Si todo está correcto verás algo como:
+  - En el teléfono aparecerá un mensaje solicitando autorización. Acepta la clave RSA.
+  - Si todo está correcto verás algo como:
     List of devices attached
     ABC1234567 device
   
