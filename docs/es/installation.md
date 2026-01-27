@@ -4,11 +4,11 @@
   ADB (Android Debug Bridge) es una herramienta de línea de comandos incluída en el Android SDK Platform Tools que permite comunicarte con un dispositivo Android desde una computadora. Se usa para depuración, transferencia de archivos, instalación de apps, control del sistema y más.
 
 ## Requisitos previos
-  · Un dispositivo Android con:
-    · Opciones de desarrollador habilitadas
-    · Depuración USB activada
-  · Un cable USB funcional (preferiblemente de datos)
-  · Una PC con windows, Linux o macOS
+  - Un dispositivo Android con:
+    - Opciones de desarrollador habilitadas
+    - Depuración USB activada
+  - Un cable USB funcional (preferiblemente de datos)
+  - Una PC con windows, Linux o macOS
 
 ## Activar opciones de desarrollador en Android
   1. Ve a Ajustes > Acerca del teléfono
