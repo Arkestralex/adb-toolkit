@@ -10,10 +10,16 @@ A practical ADB toolkit for debloating, optimization, diagnostics, and Android d
 ```text
 adb-toolkit/
 |
-|── docs/    # Technical documentation
-│   ├── installation.md
-│   ├── samsung-packages.md
-│   └── troubleshooting.md
+├── docs/    # Technical documentation
+|   ├── en
+|   |  ├── installation.md
+│   |  ├── samsung-packages.md
+│   |  └── troubleshooting.md
+|   |
+|   └── es
+│      ├── installation.md
+│      ├── samsung-packages.md
+│      └── troubleshooting.md
 |
 ├── presets/ # Device-specific package lists
 │   ├── samsung-a30s.txt
